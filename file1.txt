@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is branch2
+=======
+This is branch3
+>>>>>>> b38a294 (BR3_one)
