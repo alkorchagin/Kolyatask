@@ -1,1 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 This is branch2
+=======
+This is branch1
+>>>>>>> b38a294 (BR3_one)
+=======
+This is branch3
+>>>>>>> 219e29bee2ebc108e8d78176ee8e4602198fed88
